@@ -1,7 +1,8 @@
-# flutter_custom_painter
+# Clock Analog View By Custom Painter
 
 A new Flutter project.
-
+This is a basic UI.<br><br>
+<img src="https://user-images.githubusercontent.com/100331782/185882791-9db9e633-a9da-4a37-bf86-612a9284b3d5.png" width="300">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
